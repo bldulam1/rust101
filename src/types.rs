@@ -31,6 +31,4 @@ pub fn run() {
   let a1 = 'a';
   let face = '\u{1F600}';
   println!("{:?}", (1, 2, 3, 45, 5 > 2, a1, face));
-
-   
 }
